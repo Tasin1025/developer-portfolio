@@ -1,0 +1,11 @@
+/* global css */
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+/* navbar options */
+nav {
+    display: flex;
+}
