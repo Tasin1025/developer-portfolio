@@ -65,10 +65,11 @@ nav a {
     padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
-    background-image: url("../images/header_bg.png");
+    background-image: url("../images/header_bg.png"), url("../images/developer.png");
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, 25px center;
     justify-content: space-between;
+    background-size: auto,80px ;
 }
 
 .banner-content {
