@@ -14,6 +14,15 @@ nav {
     margin: 0 150px;
 }
 
+.btn {
+    border-radius: 5px;
+    border: 1px solid #FD6E0A ;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 15px 35px;
+    color: #FD6E0A;
+}
+
 .btn-primary {
     background: #FD6E0A;
     border-radius: 5px;
