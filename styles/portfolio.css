@@ -3,6 +3,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+main section {
+    margin-top: 130px;
+}
+
 /* navbar options */
 nav {
     display: flex;
@@ -172,12 +176,56 @@ main {
     color: #181818;
     font-size: 20px;
     font-weight: 700;
-    
+
 }
 
 .skill-description {
     color: #757575;
     font-size: 16px;
     font-weight: 400;
-    
+
+}
+
+/* resume section  */
+
+.resume-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.resume-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700
+}
+
+.resume-heading {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.resume-subheading {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.resume-description {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.resume-column {
+    margin: 20px;
+}
+.resume-column hr {
+    margin: 30px 0px;
+}
+.download-cv {
+    text-align: center;
+    margin-top: 50px;
 }
